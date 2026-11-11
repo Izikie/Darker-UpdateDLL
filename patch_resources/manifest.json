@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "source": "darker.dll",
+  "source_sha256": "0964cc9998ac987abb1b86de9110bcf81aa7f2eb9cc705f2dfdf8af336b8de8d",
+  "resources": [
+    {
+      "type": 2,
+      "id": 129,
+      "lang": 1033,
+      "file": "129.RT_BITMAP.lang1033.bin",
+      "size": 826,
+      "sha256": "be8e03a8a6d150ef3f323bd0201f21d1089bb19b40bc0d07e5a32636e860a34d"
+    },
+    {
+      "type": 2,
+      "id": 178,
+      "lang": 1033,
+      "file": "178.RT_BITMAP.lang1033.bin",
+      "size": 5382,
+      "sha256": "07257f70f5c57b42279bdcd05efdee37d33e12749435bdf0d50e9916f064558a"
+    },
+    {
+      "type": 2,
+      "id": 223,
+      "lang": 1033,
+      "file": "223.RT_BITMAP.lang1033.bin",
+      "size": 618,
+      "sha256": "aff2bbf2f74849422c87c9a7e19a86303608fb891aaea27564b9c1b265e6675f"
+    },
+    {
+      "type": 2,
+      "id": 235,
+      "lang": 1033,
+      "file": "235.RT_BITMAP.lang1033.bin",
+      "size": 366,
+      "sha256": "235974978aa859a6bc364b809ac5173da6d529e422d7c926fc0445cd8d2c03cb"
+    },
+    {
+      "type": 2,
+      "id": 284,
+      "lang": 1033,
+      "file": "284.RT_BITMAP.lang1033.bin",
+      "size": 53802,
+      "sha256": "58a069a7b186ee90b837fbefea8521530e2c33282461672d90090e9c56b4373a"
+    },
+    {
+      "type": 2,
+      "id": 326,
+      "lang": 1033,
+      "file": "326.RT_BITMAP.lang1033.bin",
+      "size": 346,
+      "sha256": "5735cf15902f0d1d01326f82eb5ed56b7721b13689ec7aaa230cc01505c49025"
+    },
+    {
+      "type": 2,
+      "id": 30996,
+      "lang": 1033,
+      "file": "30996.RT_BITMAP.lang1033.bin",
+      "size": 326,
+      "sha256": "b32a693bb73df62981607995066df25638e14b4966608b1d7ff434ec7ff9a57d"
+    },
+    {
+      "type": 3,
+      "id": 21,
+      "lang": 1033,
+      "file": "21.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "88e1754ca43d997c36f44ec95fd084667a5153dcfed5c88858099dcbd7bd84d6"
+    },
+    {
+      "type": 3,
+      "id": 22,
+      "lang": 1033,
+      "file": "22.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "f72ae64b32119421ca11f107b215b649514c63f676b0947da3d70a1b9c823a90"
+    },
+    {
+      "type": 3,
+      "id": 23,
+      "lang": 1033,
+      "file": "23.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "2277167ac7d8563249ae2a9ba07907bd1b65100b52df1d5f64c79e0638e568ab"
+    },
+    {
+      "type": 3,
+      "id": 24,
+      "lang": 1033,
+      "file": "24.RT_ICON.lang1033.bin",
+      "size": 3240,
+      "sha256": "e60545ae429f3b97c95b1f949b2cf859155c49ce3fb3faffd9599325e78e097c"
+    },
+    {
+      "type": 3,
+      "id": 25,
+      "lang": 1033,
+      "file": "25.RT_ICON.lang1033.bin",
+      "size": 3240,
+      "sha256": "d8a8626f93fc433c65d9bb72527cb979b1a6ea715b6ebb5938075f55a25b2941"
+    },
+    {
+      "type": 3,
+      "id": 26,
+      "lang": 1033,
+      "file": "26.RT_ICON.lang1033.bin",
+      "size": 296,
+      "sha256": "0b688045fbc808a40b17edc06e0a0d04bb2490549558359ee89b2546cf541df2"
+    },
+    {
+      "type": 3,
+      "id": 27,
+      "lang": 1033,
+      "file": "27.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "1aedccf0d06a9c6b6c5701f8542e3e554a0e0292f5517a6e1cf67cfea3eacccd"
+    },
+    {
+      "type": 3,
+      "id": 28,
+      "lang": 1033,
+      "file": "28.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "3541d7caaa5cabb88cf271f5677968f82047716b00b5f5fa6eb07d287d32fd3a"
+    },
+    {
+      "type": 3,
+      "id": 29,
+      "lang": 1033,
+      "file": "29.RT_ICON.lang1033.bin",
+      "size": 296,
+      "sha256": "fa9526ae0c3fe2428e30cf1853746ada67e9f2f3fe7eaab9c0de88a242cacfe4"
+    },
+    {
+      "type": 3,
+      "id": 30,
+      "lang": 1033,
+      "file": "30.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "c8427372fe7b6e70e41d4cf71b6d41916df1aab80bc08e7912ea73ba38c17dfc"
+    },
+    {
+      "type": 3,
+      "id": 31,
+      "lang": 1033,
+      "file": "31.RT_ICON.lang1033.bin",
+      "size": 296,
+      "sha256": "b23a5ac0654bc7b548166cfaa4fb7b8e99c3540ad8d355ec0ecc13d5d4322507"
+    },
+    {
+      "type": 3,
+      "id": 32,
+      "lang": 1033,
+      "file": "32.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "babd69ab77dae84810807eedca47071937d4d6153ac34e20580bf73129d44d74"
+    },
+    {
+      "type": 3,
+      "id": 33,
+      "lang": 1033,
+      "file": "33.RT_ICON.lang1033.bin",
+      "size": 296,
+      "sha256": "5b3ba3762ce310fbb322a5bc69e4340b7d2c0f973375917c47f3102c6012cc37"
+    },
+    {
+      "type": 3,
+      "id": 34,
+      "lang": 1033,
+      "file": "34.RT_ICON.lang1033.bin",
+      "size": 744,
+      "sha256": "0c67ae0078b117513455995085e0241b43192ba528e1655e80a5888780a315f4"
+    },
+    {
+      "type": 14,
+      "id": 311,
+      "lang": 1033,
+      "file": "311.RT_GROUP_ICON.lang1033.bin",
+      "size": 20,
+      "sha256": "734e1b54e13197c0e588322940fc05a58a24515bd0dc86db46994ff12b6efd0d"
+    },
+    {
+      "type": 14,
+      "id": 312,
+      "lang": 1033,
+      "file": "312.RT_GROUP_ICON.lang1033.bin",
+      "size": 20,
+      "sha256": "23e3c2ad544f2ca0947bf6660e8bb11d11e2ea01d41a8f2384545294d1ecb2bb"
+    },
+    {
+      "type": 14,
+      "id": 313,
+      "lang": 1033,
+      "file": "313.RT_GROUP_ICON.lang1033.bin",
+      "size": 20,
+      "sha256": "4d6006facf56daaa50386b323bba36090c33bf3839ca72ef9cb3a1e6b14ab9af"
+    },
+    {
+      "type": 14,
+      "id": 314,
+      "lang": 1033,
+      "file": "314.RT_GROUP_ICON.lang1033.bin",
+      "size": 20,
+      "sha256": "206c252b1abcd3cea9a493859ba22c03c3747a9f39b52ee5cbab325a54819cea"
+    },
+    {
+      "type": 14,
+      "id": 320,
+      "lang": 1033,
+      "file": "320.RT_GROUP_ICON.lang1033.bin",
+      "size": 20,
+      "sha256": "0d55bfe4e7b7019a109849ab1ee0909689f41bbcaabf1a1a4671da3316cc3129"
+    },
+    {
+      "type": 14,
+      "id": 321,
+      "lang": 1033,
+      "file": "321.RT_GROUP_ICON.lang1033.bin",
+      "size": 20,
+      "sha256": "5f96666fb05257bb60808e8fd1eb8af423708dd9cec3bfe33b4c162a3f7b077c"
+    },
+    {
+      "type": 14,
+      "id": 31235,
+      "lang": 1033,
+      "file": "31235.RT_GROUP_ICON.lang1033.bin",
+      "size": 34,
+      "sha256": "210dc6e3b916232e3fa3fb7fef161a9012473c1f41a760043c91e17009ddcf07"
+    },
+    {
+      "type": 14,
+      "id": 31236,
+      "lang": 1033,
+      "file": "31236.RT_GROUP_ICON.lang1033.bin",
+      "size": 34,
+      "sha256": "ed762c4953f235bd17e72775299ef480f11c42f106b6970856cbce13d398e381"
+    },
+    {
+      "type": 14,
+      "id": 31237,
+      "lang": 1033,
+      "file": "31237.RT_GROUP_ICON.lang1033.bin",
+      "size": 34,
+      "sha256": "46fd75e9efa99efb08ed4b095b59eb8012ca84c1c03867e9b83a7ccd655fc320"
+    },
+    {
+      "type": 14,
+      "id": 31238,
+      "lang": 1033,
+      "file": "31238.RT_GROUP_ICON.lang1033.bin",
+      "size": 34,
+      "sha256": "09f4fdde8ad1a7b90ea6ee06d9e45648448052b5b87d70639669df18edc21ca6"
+    }
+  ]
+}

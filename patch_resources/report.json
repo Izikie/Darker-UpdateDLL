@@ -1,0 +1,119 @@
+{
+  "original": "og.dll",
+  "darker": "darker.dll",
+  "ignored_ids": [],
+  "bitmaps": [
+    {
+      "id": 129,
+      "lang": 1033
+    },
+    {
+      "id": 178,
+      "lang": 1033
+    },
+    {
+      "id": 223,
+      "lang": 1033
+    },
+    {
+      "id": 235,
+      "lang": 1033
+    },
+    {
+      "id": 284,
+      "lang": 1033
+    },
+    {
+      "id": 326,
+      "lang": 1033
+    },
+    {
+      "id": 30996,
+      "lang": 1033
+    }
+  ],
+  "icon_groups": [
+    {
+      "id": 311,
+      "lang": 1033,
+      "member_icons": [
+        27
+      ]
+    },
+    {
+      "id": 312,
+      "lang": 1033,
+      "member_icons": [
+        21
+      ]
+    },
+    {
+      "id": 313,
+      "lang": 1033,
+      "member_icons": [
+        22
+      ]
+    },
+    {
+      "id": 314,
+      "lang": 1033,
+      "member_icons": [
+        23
+      ]
+    },
+    {
+      "id": 320,
+      "lang": 1033,
+      "member_icons": [
+        24
+      ]
+    },
+    {
+      "id": 321,
+      "lang": 1033,
+      "member_icons": [
+        25
+      ]
+    },
+    {
+      "id": 31235,
+      "lang": 1033,
+      "member_icons": [
+        26,
+        28
+      ]
+    },
+    {
+      "id": 31236,
+      "lang": 1033,
+      "member_icons": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": 31237,
+      "lang": 1033,
+      "member_icons": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": 31238,
+      "lang": 1033,
+      "member_icons": [
+        33,
+        34
+      ]
+    }
+  ],
+  "unassociated_changed_icons": [],
+  "not_exported": [
+    "Removed resources",
+    "Added resources",
+    "Dialog/layout resources",
+    "Non-visual resources",
+    "Changed icons not referenced by selected groups"
+  ]
+}
